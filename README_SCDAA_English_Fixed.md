@@ -42,11 +42,11 @@ python Ex5.py
 ```
 
 ## Group Members
-| Name | Student ID | Contribution |
-|------|------------|--------------|
-| Alice Example | s1234567 | 1/3 |
-| Bob Example | s2345678 | 1/3 |
-| Charlie Example | s3456789 | 1/3 |
+| Name | Student ID |
+|------|------------|
+|  |  |
+|  |  |
+|  |  |
 
 ## Notes
 - All matrix parameters (H, M, C, D, R, sigma) follow the values provided in the coursework.
