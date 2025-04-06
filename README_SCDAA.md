@@ -42,7 +42,7 @@ Use only the libraries permitted by the coursework:
 
 - `Ex1_1.py` includes all functions needed for Exercise 1.1. Running this script computes the value function and optimal control using the parameters specified in Figure 1 of the coursework.
 - `Ex1_2.py` provides numerical experiments to answer Exercise 1.2, including convergence validation of the value function via Monte Carlo simulation.
-- `Ex2_2.py` visualizes trajectory comparisons between strict LQR and soft LQR, clearly showing the difference in control strategies.
+- `Ex2_2.py` visualizes trajectory comparisons between strict LQR and soft LQR, clearly showing the difference in control strategies. Run`Ex2_2.py` for Exercise 2.1.
 - For Exercises 3, 4, and 5, you can simply run `Ex3.py`, `Ex4.py`, and `Ex5.py` respectively. These scripts will automatically generate visualizations such as:
   - 3D plots comparing learned vs analytic optimal control
   - Training loss trends for actor and/or critic networks
