@@ -53,5 +53,5 @@ Use only the libraries permitted by the coursework:
 
 ## Notes
 - All matrix parameters (H, M, C, D, R, sigma) follow the values provided in the coursework.
-- In **Exercise 3**, the program also prints the **maximum error** against the exact optimal value function, evaluated over the grid:
+- In Exercise 3, the program also prints the maximum error against the exact optimal value function, evaluated over the grid:
 {0, 1/6, 2/6, 1/2} × [-3, 3] × [-3, 3]
