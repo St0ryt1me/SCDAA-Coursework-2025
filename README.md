@@ -45,9 +45,9 @@ Use only the libraries permitted by the coursework:
 - `Ex2_2.py` visualizes trajectory comparisons between strict LQR and soft LQR, clearly showing the difference in control strategies. Run`Ex2_2.py` for Exercise 2.1.
 - For Exercises 3, 4, and 5, you can simply run `Ex3.py`, `Ex4.py`, and `Ex5.py` respectively. These scripts will automatically generate visualizations such as:
   - 3D plots comparing learned vs analytic optimal control
+  - 3D plots comparing learned vs analytic value function
   - Training loss trends for actor and/or critic networks
 
 ## Notes
 - All matrix parameters (H, M, C, D, R, sigma) follow the values provided in the coursework.
-- Riccati equations solved using scipy’s solve_ivp.
 - Actor and critic are trained offline using PyTorch.
