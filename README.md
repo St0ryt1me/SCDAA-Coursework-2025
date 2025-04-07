@@ -3,11 +3,11 @@
 This repository contains a complete implementation of actor-critic methods for solving a continuous-time relaxed entropy regularized Linear Quadratic Regulator (LQR) problem. The implementation follows the specification provided in the SCDAA Coursework 2024–25 at the University of Edinburgh.
 
 ## Group Members
-| Name | Student ID |
-|------|------------|
-| Junzhao Wei | s2754276 |
-| Yujie Liu | s2690587 |
-| Yuhang Jin | s2693708 |
+| Name | Student ID | Contribution |
+|------|------------|-----------|
+| Junzhao Wei | s2754276 | 1/3 |
+| Yujie Liu | s2690587 | 1/3 |
+| Yuhang Jin | s2693708 | 1/3 |
 
 
 ## Project Overview
