@@ -46,11 +46,12 @@ Use only the libraries permitted by the coursework:
   - how the error decreases with increasing sample size, given a fixed number of time steps
 - `Ex2_2.py` visualizes trajectory comparisons between strict LQR and soft LQR, clearly showing the difference in control strategies. Run`Ex2_2.py` for Exercise 2.1, you will get the plot:
   - trajectory comparisons between strict LQR and soft LQR
-- For Exercises 3, 4, and 5, you can simply run `Ex3_1.py`, `Ex4_1.py`, and `Ex5_1.py` respectively. These scripts will automatically generate visualizations such as:
+- For Exercises 3, 4, and 5, you can simply run `Ex3_1.py`, `Ex4_1.py`, and `Ex5_1.py` respectively. These scripts will print how the loss evolves as the number of training episodes increases and they automatically generate visualizations such as:
   - 3D plots comparing learned vs analytic optimal control
   - 3D plots comparing learned vs analytic value function
   - Training loss trends for actor and/or critic networks
 
 ## Notes
 - All matrix parameters (H, M, C, D, R, sigma) follow the values provided in the coursework.
-- Actor and critic are trained offline using PyTorch.
+- In **Exercise 3**, the program also prints the **maximum error** against the exact optimal value function, evaluated over the grid:
+{0, 1/6, 2/6, 1/2} × [-3, 3] × [-3, 3]
