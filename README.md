@@ -5,9 +5,9 @@ This repository contains a complete implementation of actor-critic methods for s
 ## Group Members
 | Name | Student ID | Contribution |
 |------|------------|-----------|
-| Junzhao Wei | s2754276 | 1/3 |
-| Yujie Liu | s2690587 | 1/3 |
-| Yuhang Jin | s2693708 | 1/3 |
+| Junzhao Wei | s2754276 |   1/3 |
+| Yujie Liu | s2690587 |   1/3 |
+| Yuhang Jin | s2693708 |   1/3 |
 
 
 ## Project Overview
