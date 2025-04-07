@@ -45,7 +45,7 @@ Use only the libraries permitted by the coursework:
   - how the error decreases with increasing time steps, given a fixed number of samples
   - how the error decreases with increasing sample size, given a fixed number of time steps
 - `Ex2_2.py` visualizes trajectory comparisons between strict LQR and soft LQR, clearly showing the difference in control strategies. Run`Ex2_2.py` for Exercise 2.1, you will get the plot:
-  - trajectory comparisons between strict LQR and soft LQR
+  - trajectory comparisons between strict LQR and soft LQR when the starting points are [2,2] , [2,-2] , [-2,-2], [-2,2] respectively.
 - For Exercises 3, 4, and 5, you can simply run `Ex3_1.py`, `Ex4_1.py`, and `Ex5_1.py` respectively. These scripts will print how the loss evolves as the number of training episodes increases and they automatically generate visualizations such as:
   - 3D plots comparing learned vs analytic optimal control
   - 3D plots comparing learned vs analytic value function
